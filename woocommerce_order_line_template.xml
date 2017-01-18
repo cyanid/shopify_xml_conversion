@@ -1,0 +1,10 @@
+<OrderLineItems>
+    <SKU>%%SKU%%</SKU>
+    <ItemName>%%ITEM_NAME%%</ItemName>
+    <Quantity>%%QUANTITY%%</Quantity>
+    <Price>%%PRICE%%</Price>
+    <LineTotal>%%LINE_TOTAL%%</LineTotal>
+    <PriceInclTax>%%PRICE_INCL_TAX%%</PriceInclTax>
+    <LineTotalInclTax>%%LINE_TOTAL_INCL_TAX%%</LineTotalInclTax>
+    <Meta></Meta>
+</OrderLineItems>

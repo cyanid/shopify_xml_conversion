@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Orders>
+    <Order>
+        <OrderId>%%ORDER_ID%%</OrderId>
+        <OrderNumber>%%ORDER_NUMBER%%</OrderNumber>
+        <OrderDate>%%ORDER_DATE%%</OrderDate>
+        <OrderStatus>%%ORDER_STATUS%%</OrderStatus>
+        <BillingFirstName>%%BILLING_FIRST_NAME%%</BillingFirstName>
+        <BillingLastName>%%BILLING_LAST_NAME%%</BillingLastName>
+        <BillingFullName>%%BILLING_FULL_NAME%%</BillingFullName>
+        <BillingCompany>%%BILLING_COMPANY%%</BillingCompany>
+        <BillingAddress1>%%BILLING_ADDRESS_1%%</BillingAddress1>
+        <BillingAddress2>%%BILLING_ADDRESS_2%%</BillingAddress2>
+        <BillingCity>%%BILLING_CITY%%</BillingCity>
+        <BillingState>%%BILLING_STATE%%</BillingState>
+        <BillingPostCode>%%BILLING_POST_CODE%%</BillingPostCode>
+        <BillingCountry>%%BILLING_COUNTRY%%</BillingCountry>
+        <BillingPhone>%%BILLING_PHONE%%</BillingPhone>
+        <BillingEmail>%%BILLING_EMAIL%%</BillingEmail>
+        <ShippingFirstName>%%SHIPPING_FIRST_NAME%%</ShippingFirstName>
+        <ShippingLastName>%%SHIPPING_LAST_NAME%%</ShippingLastName>
+        <ShippingFullName>%%SHIPPING_FULL_NAME%%</ShippingFullName>
+        <ShippingCompany>%%SHIPPING_COMPANY%%</ShippingCompany>
+        <ShippingAddress1>%%SHIPPING_ADDRESS_1%%</ShippingAddress1>
+        <ShippingAddress2>%%SHIPPING_ADDRESS_2%%</ShippingAddress2>
+        <ShippingCity>%%SHIPPPING_CITY%%</ShippingCity>
+        <ShippingState>%%SHIPPING_STATE%%</ShippingState>
+        <ShippingPostCode>%%SHIPPING_POST_CODE%%</ShippingPostCode>
+        <ShippingCountry>%%SHIPPING_COUNTRY%%</ShippingCountry>
+        <ShippingMethodId>%%SHIPPING_METHOD_ID%%</ShippingMethodId>
+        <ShippingMethod>%%SHIPPING_METHOD%%</ShippingMethod>
+        <PaymentMethodId>%%PAYMENT_METHOD_ID%%</PaymentMethodId>
+        <PaymentMethod>%%PAYMENT_METHOD%%</PaymentMethod>
+        <DiscountTotal>%%DISCOUNT_TOTAL%%</DiscountTotal>
+        <ShippingTotal>%%SHIPPINH_TOTAL%%</ShippingTotal>
+        <ShippingTaxTotal>%%SHIPPING_TAX_TOTAL%%</ShippingTaxTotal>
+        <OrderTotal>%%ORDER_TOTAL%%</OrderTotal>
+        <FeeTotal>%%FEE_TOTAL%%</FeeTotal>
+        <TaxTotal>%%TAX_TOTAL%%</TaxTotal>
+        <CompletedDate>%%COMPLETED_DATE%%</CompletedDate>
+        <CustomerNote>%%CUSTOMER_NOTE%%</CustomerNote>
+        <CustomerId>%%CUSTOMER_ID%%</CustomerId>
+        %%ORDER_LINE_ITEMS%%
+    </Order>
+</Orders>

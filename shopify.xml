@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+   <id type="integer">1202776003</id>
+   <email>sami@wannabes.net</email>
+   <closed-at type="dateTime" nil="true" />
+   <created-at type="dateTime">2015-09-09T10:20:28+03:00</created-at>
+   <updated-at type="dateTime">2015-09-09T10:20:28+03:00</updated-at>
+   <number type="integer">6</number>
+   <note />
+   <token>47e96448b0f759fa467b6bb49e66edcc</token>
+   <gateway>bogus</gateway>
+   <test type="boolean">true</test>
+   <total-price type="decimal">122.00</total-price>
+   <subtotal-price type="decimal">82.26</subtotal-price>
+   <total-weight type="integer">6000</total-weight>
+   <total-tax type="decimal">19.74</total-tax>
+   <taxes-included type="boolean">false</taxes-included>
+   <currency>EUR</currency>
+   <financial-status>authorized</financial-status>
+   <confirmed type="boolean">true</confirmed>
+   <total-discounts type="decimal">0.00</total-discounts>
+   <total-line-items-price type="decimal">82.26</total-line-items-price>
+   <cart-token>063b7bf797788d7ec4802f9f1f47abef</cart-token>
+   <buyer-accepts-marketing type="boolean">true</buyer-accepts-marketing>
+   <name>HOP1006BEER</name>
+   <referring-site />
+   <landing-site>/</landing-site>
+   <cancelled-at type="dateTime" nil="true" />
+   <cancel-reason nil="true" />
+   <total-price-usd type="decimal">136.72</total-price-usd>
+   <checkout-token>f4cf9b8850f72f35ed4d88298488536d</checkout-token>
+   <reference nil="true" />
+   <user-id type="integer" nil="true" />
+   <location-id type="integer" nil="true" />
+   <source-identifier nil="true" />
+   <source-url nil="true" />
+   <processed-at type="dateTime">2015-09-09T10:20:28+03:00</processed-at>
+   <device-id type="integer" nil="true" />
+   <browser-ip>188.238.117.153</browser-ip>
+   <landing-site-ref nil="true" />
+   <order-number type="integer">1006</order-number>
+   <discount-codes type="array" />
+   <note-attributes type="array" />
+   <payment-gateway-names type="array">
+      <payment-gateway-name>paymill</payment-gateway-name>
+      <payment-gateway-name>bogus</payment-gateway-name>
+   </payment-gateway-names>
+   <processing-method>direct</processing-method>
+   <source>checkout_next</source>
+   <checkout-id type="integer">2265422915</checkout-id>
+   <source-name>web</source-name>
+   <fulfillment-status nil="true" />
+   <tax-lines type="array">
+      <tax-line>
+         <title>VAT</title>
+         <price type="decimal">19.74</price>
+         <rate type="float">0.24</rate>
+      </tax-line>
+   </tax-lines>
+   <tags />
+   <line-items type="array">
+      <line-item>
+         <id type="integer">2293741187</id>
+         <variant-id type="integer">6287163587</variant-id>
+         <title>Texas Ranger 6.6%</title>
+         <quantity type="integer">3</quantity>
+         <price type="decimal">5.02</price>
+         <grams type="integer">500</grams>
+         <sku>AR320001</sku>
+         <variant-title />
+         <vendor>Mikkeller</vendor>
+         <fulfillment-service>manual</fulfillment-service>
+         <product-id type="integer">2192149379</product-id>
+         <requires-shipping type="boolean">true</requires-shipping>
+         <taxable type="boolean">true</taxable>
+         <gift-card type="boolean">false</gift-card>
+         <name>Texas Ranger 6.6%</name>
+         <variant-inventory-management nil="true" />
+         <properties type="array" />
+         <product-exists type="boolean">true</product-exists>
+         <fulfillable-quantity type="integer">3</fulfillable-quantity>
+         <total-discount>0.00</total-discount>
+         <fulfillment-status nil="true" />
+         <tax-lines type="array">
+            <tax-line>
+               <title>VAT</title>
+               <price type="decimal">3.61</price>
+               <rate type="float">0.24</rate>
+            </tax-line>
+         </tax-lines>
+      </line-item>
+      <line-item>
+         <id type="integer">2293741251</id>
+         <variant-id type="integer">6287170947</variant-id>
+         <title>Ola Dubh 16 8.0%</title>
+         <quantity type="integer">3</quantity>
+         <price type="decimal">6.54</price>
+         <grams type="integer">500</grams>
+         <sku>AR320202</sku>
+         <variant-title />
+         <vendor>Harviestoun</vendor>
+         <fulfillment-service>manual</fulfillment-service>
+         <product-id type="integer">2192153539</product-id>
+         <requires-shipping type="boolean">true</requires-shipping>
+         <taxable type="boolean">true</taxable>
+         <gift-card type="boolean">false</gift-card>
+         <name>Ola Dubh 16 8.0%</name>
+         <variant-inventory-management nil="true" />
+         <properties type="array" />
+         <product-exists type="boolean">true</product-exists>
+         <fulfillable-quantity type="integer">3</fulfillable-quantity>
+         <total-discount>0.00</total-discount>
+         <fulfillment-status nil="true" />
+         <tax-lines type="array">
+            <tax-line>
+               <title>VAT</title>
+               <price type="decimal">4.71</price>
+               <rate type="float">0.24</rate>
+            </tax-line>
+         </tax-lines>
+      </line-item>
+      <line-item>
+         <id type="integer">2293741315</id>
+         <variant-id type="integer">6287169859</variant-id>
+         <title>Dangerously Close To Stupid 9.3%</title>
+         <quantity type="integer">3</quantity>
+         <price type="decimal">5.18</price>
+         <grams type="integer">500</grams>
+         <sku>AR320255</sku>
+         <variant-title />
+         <vendor>TO ØL</vendor>
+         <fulfillment-service>manual</fulfillment-service>
+         <product-id type="integer">2192152451</product-id>
+         <requires-shipping type="boolean">true</requires-shipping>
+         <taxable type="boolean">true</taxable>
+         <gift-card type="boolean">false</gift-card>
+         <name>Dangerously Close To Stupid 9.3%</name>
+         <variant-inventory-management nil="true" />
+         <properties type="array" />
+         <product-exists type="boolean">true</product-exists>
+         <fulfillable-quantity type="integer">3</fulfillable-quantity>
+         <total-discount>0.00</total-discount>
+         <fulfillment-status nil="true" />
+         <tax-lines type="array">
+            <tax-line>
+               <title>VAT</title>
+               <price type="decimal">3.73</price>
+               <rate type="float">0.24</rate>
+            </tax-line>
+         </tax-lines>
+      </line-item>
+      <line-item>
+         <id type="integer">2293741379</id>
+         <variant-id type="integer">6287164291</variant-id>
+         <title>Sfäär Pale Ale 5.5%</title>
+         <quantity type="integer">3</quantity>
+         <price type="decimal">4.42</price>
+         <grams type="integer">500</grams>
+         <sku>AR320033</sku>
+         <variant-title />
+         <vendor>Mikkeller</vendor>
+         <fulfillment-service>manual</fulfillment-service>
+         <product-id type="integer">2192150083</product-id>
+         <requires-shipping type="boolean">true</requires-shipping>
+         <taxable type="boolean">true</taxable>
+         <gift-card type="boolean">false</gift-card>
+         <name>Sfäär Pale Ale 5.5%</name>
+         <variant-inventory-management nil="true" />
+         <properties type="array" />
+         <product-exists type="boolean">true</product-exists>
+         <fulfillable-quantity type="integer">3</fulfillable-quantity>
+         <total-discount>0.00</total-discount>
+         <fulfillment-status nil="true" />
+         <tax-lines type="array">
+            <tax-line>
+               <title>VAT</title>
+               <price type="decimal">3.18</price>
+               <rate type="float">0.24</rate>
+            </tax-line>
+         </tax-lines>
+      </line-item>
+      <line-item>
+         <id type="integer">2293741443</id>
+         <variant-id type="integer">6287165635</variant-id>
+         <title>Beer Geek Vanilla Shake 12.1%</title>
+         <quantity type="integer">3</quantity>
+         <price type="decimal">6.26</price>
+         <grams type="integer">0</grams>
+         <sku>AR320018</sku>
+         <variant-title />
+         <vendor>Mikkeller</vendor>
+         <fulfillment-service>manual</fulfillment-service>
+         <product-id type="integer">2192150979</product-id>
+         <requires-shipping type="boolean">true</requires-shipping>
+         <taxable type="boolean">true</taxable>
+         <gift-card type="boolean">false</gift-card>
+         <name>Beer Geek Vanilla Shake 12.1%</name>
+         <variant-inventory-management nil="true" />
+         <properties type="array" />
+         <product-exists type="boolean">true</product-exists>
+         <fulfillable-quantity type="integer">3</fulfillable-quantity>
+         <total-discount>0.00</total-discount>
+         <fulfillment-status nil="true" />
+         <tax-lines type="array">
+            <tax-line>
+               <title>VAT</title>
+               <price type="decimal">4.51</price>
+               <rate type="float">0.24</rate>
+            </tax-line>
+         </tax-lines>
+      </line-item>
+   </line-items>
+   <shipping-lines type="array">
+      <shipping-line>
+         <title>Heavy Goods Shipping</title>
+         <price type="decimal">20.00</price>
+         <code>Heavy Goods Shipping</code>
+         <source>shopify</source>
+         <tax-lines type="array" />
+      </shipping-line>
+   </shipping-lines>
+   <billing-address type="Address">
+      <first-name>Sami</first-name>
+      <address1>Sairionkatu 11</address1>
+      <phone>+358400804812</phone>
+      <city>Hämeenlinna</city>
+      <zip>13220</zip>
+      <province nil="true" />
+      <country>Finland</country>
+      <last-name>Keinänen</last-name>
+      <address2 />
+      <company>Design &amp; stuff ltd</company>
+      <latitude type="float">61.0078881</latitude>
+      <longitude type="float">24.4729758</longitude>
+      <name>Sami Keinänen</name>
+      <country-code>FI</country-code>
+      <province-code nil="true" />
+   </billing-address>
+   <shipping-address type="Address">
+      <first-name>Sami</first-name>
+      <address1>Sairionkatu 11</address1>
+      <phone>+358400804812</phone>
+      <city>Hämeenlinna</city>
+      <zip>13220</zip>
+      <province nil="true" />
+      <country>Finland</country>
+      <last-name>Keinänen</last-name>
+      <address2 />
+      <company>Design &amp; stuff ltd</company>
+      <latitude type="float">61.0078881</latitude>
+      <longitude type="float">24.4729758</longitude>
+      <name>Sami Keinänen</name>
+      <country-code>FI</country-code>
+      <province-code nil="true" />
+   </shipping-address>
+   <fulfillments type="array" />
+   <client-details>
+      <browser-ip>188.238.117.153</browser-ip>
+      <accept-language>en-us</accept-language>
+      <user-agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9</user-agent>
+      <session-hash>228115255208a436814f146aba1b2e225b3b56c1a8b1ac1fc0abb73b4bbbb156</session-hash>
+      <browser-width type="integer">1266</browser-width>
+      <browser-height type="integer">945</browser-height>
+   </client-details>
+   <refunds type="array" />
+   <payment-details>
+      <credit-card-bin>1</credit-card-bin>
+      <avs-result-code nil="true" />
+      <cvv-result-code nil="true" />
+      <credit-card-number>•••• •••• •••• 1</credit-card-number>
+      <credit-card-company>Bogus</credit-card-company>
+   </payment-details>
+   <customer>
+      <id type="integer">660386307</id>
+      <email>sami@wannabes.net</email>
+      <accepts-marketing type="boolean">true</accepts-marketing>
+      <created-at type="dateTime">2015-06-14T22:30:46+03:00</created-at>
+      <updated-at type="dateTime">2015-09-09T10:20:28+03:00</updated-at>
+      <first-name>Sami</first-name>
+      <last-name>Keinänen</last-name>
+      <orders-count type="integer">0</orders-count>
+      <state>enabled</state>
+      <total-spent type="decimal">0.00</total-spent>
+      <last-order-id type="integer" nil="true" />
+      <note>Staff account</note>
+      <verified-email type="boolean">true</verified-email>
+      <multipass-identifier nil="true" />
+      <tax-exempt type="boolean">false</tax-exempt>
+      <tags>staff</tags>
+      <last-order-name nil="true" />
+      <default-address>
+         <id type="integer" nil="true" />
+         <first-name nil="true" />
+         <last-name nil="true" />
+         <company nil="true" />
+         <address1>Sairionkatu 11</address1>
+         <address2 nil="true" />
+         <city>Hämeenlinna</city>
+         <province></province>
+         <country>Finland</country>
+         <zip>13220</zip>
+         <phone>+358400480812</phone>
+         <name />
+         <province-code></province-code>
+         <country-code>FI</country-code>
+         <country-name>Finland</country-name>
+         <default type="boolean">true</default>
+      </default-address>
+   </customer>
+</order>
