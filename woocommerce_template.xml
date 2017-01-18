@@ -23,7 +23,7 @@
         <ShippingCompany>%%SHIPPING_COMPANY%%</ShippingCompany>
         <ShippingAddress1>%%SHIPPING_ADDRESS_1%%</ShippingAddress1>
         <ShippingAddress2>%%SHIPPING_ADDRESS_2%%</ShippingAddress2>
-        <ShippingCity>%%SHIPPPING_CITY%%</ShippingCity>
+        <ShippingCity>%%SHIPPING_CITY%%</ShippingCity>
         <ShippingState>%%SHIPPING_STATE%%</ShippingState>
         <ShippingPostCode>%%SHIPPING_POST_CODE%%</ShippingPostCode>
         <ShippingCountry>%%SHIPPING_COUNTRY%%</ShippingCountry>
@@ -32,7 +32,7 @@
         <PaymentMethodId>%%PAYMENT_METHOD_ID%%</PaymentMethodId>
         <PaymentMethod>%%PAYMENT_METHOD%%</PaymentMethod>
         <DiscountTotal>%%DISCOUNT_TOTAL%%</DiscountTotal>
-        <ShippingTotal>%%SHIPPINH_TOTAL%%</ShippingTotal>
+        <ShippingTotal>%%SHIPPING_TOTAL%%</ShippingTotal>
         <ShippingTaxTotal>%%SHIPPING_TAX_TOTAL%%</ShippingTaxTotal>
         <OrderTotal>%%ORDER_TOTAL%%</OrderTotal>
         <FeeTotal>%%FEE_TOTAL%%</FeeTotal>
