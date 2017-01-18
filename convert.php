@@ -28,7 +28,8 @@ foreach ($array['line-items']['line-item'] as $lineItem) {
     $output_line_item = $output_order_line_template;
 
     $output_line_item = str_replace("%%SKU%%", $lineItem->sku, $output_line_item);
-    
+    $output_line_item = str_replace("%%ITEM_NAME%%", $lineItem->title, $output_line_item);
+
 
         /*
         object(SimpleXMLElement)#30 (22) {
